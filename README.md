@@ -95,7 +95,7 @@
     <section id="facilities" class="main-content">
     <h2>Facilities</h2>
     <p>Discover the state-of-the-art facilities we offer to enhance your learning experience.</p>
-    <p>Download Ba. 1st Year English Literature Paper-I Previous Papers (2016): <a href="path/to/3150_1341 (1).pdf" target="_blank">Download PDF</a></p>
+    <p>Download Ba. 1st Year English Literature Paper-I Previous Papers (2016): <a href="path/to/3150_1341(1).pdf" target="_blank">Download PDF</a></p>
     <p>Download Ba. 1st Year Phycholgy Paper-I Previous Papers (2016): <a href="path/to/3214_1561.pdf" target="_blank">Download PDF</a></p>
     <p>Download Ba. 1st Year Political Science Paper-II Previous Papers (2016): <a href="path/to/3169_1482R.pdf" target="_blank">Download PDF</a></p>
     <p>Download Ba. 1st Year Political Science Paper-I Previous Papers (2016): <a href="path/to/3167_1481R.pdf" target="_blank">Download PDF</a></p>
